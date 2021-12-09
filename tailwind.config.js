@@ -10,6 +10,9 @@ module.exports = {
         cyan: colors.cyan,
         sky: colors.sky,
       },
+      tomato: {
+        100: '#fff5f5',
+      },
     },
   },
   variants: {

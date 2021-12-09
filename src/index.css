@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .btn {
+    @apply block py-1 px-3 text-center bg-white bg-opacity-20
+    border border-white
+    text-white
+    rounded-lg
+    transition-colors
+    hover:bg-opacity-30
+    focus:outline-none focus:border-cyan-900;
+  }
+}
