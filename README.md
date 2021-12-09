@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+# TailwindCSS Workshop December 2021
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+To get started, download the repository and install the depencies.
 
-## Recommended IDE Setup
+To work on the exercise create a new branch from the exercise branch.
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+To see a working example of the example see the main branch.
+
+run `npm run dev` to lauch the dev server and see the vite app running in port 3000
